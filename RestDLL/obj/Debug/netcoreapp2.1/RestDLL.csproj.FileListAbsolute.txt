@@ -1,0 +1,16 @@
+C:\source\Teknik\RestDLL\bin\Debug\netcoreapp2.1\RestDLL.deps.json
+C:\source\Teknik\RestDLL\bin\Debug\netcoreapp2.1\RestDLL.runtimeconfig.json
+C:\source\Teknik\RestDLL\bin\Debug\netcoreapp2.1\RestDLL.runtimeconfig.dev.json
+C:\source\Teknik\RestDLL\bin\Debug\netcoreapp2.1\RestDLL.dll
+C:\source\Teknik\RestDLL\obj\Debug\netcoreapp2.1\RestDLL.csprojAssemblyReference.cache
+C:\source\Teknik\RestDLL\obj\Debug\netcoreapp2.1\RestDLL.csproj.CoreCompileInputs.cache
+C:\source\Teknik\RestDLL\obj\Debug\netcoreapp2.1\RestDLL.RazorAssemblyInfo.cache
+C:\source\Teknik\RestDLL\obj\Debug\netcoreapp2.1\RestDLL.RazorAssemblyInfo.cs
+C:\source\Teknik\RestDLL\obj\Debug\netcoreapp2.1\RestDLL.AssemblyInfoInputs.cache
+C:\source\Teknik\RestDLL\obj\Debug\netcoreapp2.1\RestDLL.AssemblyInfo.cs
+C:\source\Teknik\RestDLL\obj\Debug\netcoreapp2.1\RestDLL.RazorTargetAssemblyInfo.cache
+C:\source\Teknik\RestDLL\bin\Debug\netcoreapp2.1\RestDLL.pdb
+C:\source\Teknik\RestDLL\obj\Debug\netcoreapp2.1\RestDLL.dll
+C:\source\Teknik\RestDLL\obj\Debug\netcoreapp2.1\RestDLL.pdb
+C:\source\Teknik\RestDLL\bin\Debug\netcoreapp2.1\BilletLibrary.dll
+C:\source\Teknik\RestDLL\obj\Debug\netcoreapp2.1\RestDLL.csproj.CopyComplete
